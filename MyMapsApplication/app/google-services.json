@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "405488468285",
+    "firebase_url": "https://assessment2-242c8-default-rtdb.firebaseio.com",
+    "project_id": "assessment2-242c8",
+    "storage_bucket": "assessment2-242c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405488468285:android:08bd0c79a4bc8d8ac34554",
+        "android_client_info": {
+          "package_name": "comp5216.sydney.edu.au.mediaaccess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe-qcsEsZROGX0sHQNXfbu35tS-aKbJWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
